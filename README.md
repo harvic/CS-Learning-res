@@ -22,7 +22,7 @@ javaweb：
 链接：https://pan.baidu.com/s/1bWBgTvVGe2nDG1TGFxgG8A 提取码：k3u8
 
 java1：
-链接：https://pan.baidu.com/s/1XCc8GRNG-gtqMUwUFy8I_g 提取码:eb7k
+链接：pan.baidu.com/s/1lnZyDNXSO92pwGW-MI7IhA 提取码:55u7
 
 java2：
 链接：https://pan.baidu.com/s/1DuPIN313Zbmc49egvskGUQ 提取码：slho
@@ -110,50 +110,62 @@ part 2:
 - go 语言：
 链接：https://pan.baidu.com/s/1xkMOnAQxYvDO0sBO-lTixQ 提取码：2k6t
 
+- RxJava 
+链接：https://pan.baidu.com/s/1LwLV6O8fn24JBX6A71rCRA 提取码：eyar
+
+- H5 
+链接：https://pan.baidu.com/s/18FLP1hyzzXaguua4Lf7iAw 提取码：rmck
+
+- 云计算 
+链接：https://pan.baidu.com/s/1H6ZbfSG4Ipk2v2G35EveVQ 提取码：wun8
+
+- Kotlin 
+链接：https://pan.baidu.com/s/1zsI1Mu5gyKOT5wi3wP-Y_g 提取码：un4k
+
+- PHP 
+链接：https://pan.baidu.com/s/1HJni0KMdxoVcGWVFuawdsA 提取码：3cri
+
+- 计算机等级考试 
+链接：https://pan.baidu.com/s/1RTU0Kokz_jI23HTMU3wrkg 提取码：vrma
+
+- ios 
+链接：https://pan.baidu.com/s/1mVjwuLD7fGU3xriCjap4HQ 提取码：ceei
+
+- cocos 
+链接：https://pan.baidu.com/s/1TQEqIUf4o1ImC3pDpuXK1A 提取码：49n0
+
+- openGL 
+链接：https://pan.baidu.com/s/1GzszIO_1feqxiZR4_OyLMA 提取码：6706
+
+-项目管理 
+链接：https://pan.baidu.com/s/1WpzEXvJ1b4cEMaSCcFSMHw 提取码：kvxm
+
+- BootStrap 
+链接：https://pan.baidu.com/s/1C1BF4M2pA1UoQmZ38argrQ 提取码：1uhk
+
+- Unity3D 
+链接：https://pan.baidu.com/s/1aYZVi0uW2E5wOTCqlomJow 提取码：a3pb
+
+- IM聊天 
+链接：https://pan.baidu.com/s/1gkaNvmmXtlktwPuD7q9UhA 提取码：6lin
+
+- 运营 
+链接：https://pan.baidu.com/s/1Yib3obLwHREK9DxLdiyVNA 提取码：99hi
+
+
 **一些资源还正在整理，有需要的小伙伴，可以先关注下我公众号，在我公众号里回复关键字【资源下载】，同样可以拿到链接，公众号里的链接会实时更新。**
 
 目前在整理中的资源有：
 
-- 考研
-- 
-- 运营
-- 
-- RxJava
-- 
-- H5
-- 
-- 云计算
-- 
-- Kotlin
-- 
-- PHP
-- 
-- 计算机等级考试
-- 
-- ios
-- 
-- Android
-- 
-- cocos
-- 
-- openGL
-- 
 - 建站源码
-- 
-- 项目管理
-- 
-- javascript
-- 
-- BootStrap
-- 
-- React
-- 
-- Unity3D
-- 
-- IM聊天
-- 
-- UI设计 
 
+- Android
+
+- UI设计
+
+- React
+
+- 考研
 
 ### 若资源失效
 
