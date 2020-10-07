@@ -22,7 +22,7 @@ javaweb：
 链接：https://pan.baidu.com/s/1bWBgTvVGe2nDG1TGFxgG8A 提取码：k3u8
 
 java1：
-链接：pan.baidu.com/s/1lnZyDNXSO92pwGW-MI7IhA 提取码:55u7
+链接：https://pan.baidu.com/s/1NchOrcx_zOgVCZWHhtMKUA 提取码：gq3b
 
 java2：
 链接：https://pan.baidu.com/s/1DuPIN313Zbmc49egvskGUQ 提取码：slho
