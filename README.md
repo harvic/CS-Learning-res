@@ -93,7 +93,7 @@ part 2:
 链接：https://pan.baidu.com/s/141smmAshnKTjLfxjjFX-TQ 提取码：8i8k
 
 - 黑客:
-链接：https://pan.baidu.com/s/1_2KOyYKUikM3f_kfZrEy6A 提取码：pj03
+ 链接：https://pan.baidu.com/s/1oYTyK-UBqnUs99whMGJAow 提取码：3a2v
 
 - 电脑维修:
 链接：https://pan.baidu.com/s/1pECRyGEYoEbb2Gg_hq3R2g 提取码：5cez
@@ -151,6 +151,9 @@ part 2:
 
 - 运营 
 链接：https://pan.baidu.com/s/1Yib3obLwHREK9DxLdiyVNA 提取码：99hi
+
+- 数据结构与算法：
+链接：https://pan.baidu.com/s/1jqktp39alKbjo-ejQ3ReUA 提取码：w3cx
 
 
 **一些资源还正在整理，有需要的小伙伴，可以先关注下我公众号，在我公众号里回复关键字【资源下载】，同样可以拿到链接，公众号里的链接会实时更新。**
