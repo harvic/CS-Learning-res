@@ -105,7 +105,7 @@ part 2:
 链接：https://pan.baidu.com/s/1iAVvkVNCvz8lKRFqndbTcw 提取码：12ey
 
 - 易语言：
-链接：https://pan.baidu.com/s/1jJtCV94rW_HpYd6O9Z11RA 提取码：d5eh
+链接：https://pan.baidu.com/s/1VUvxa2jnFYqMltTxpgRZMA 提取码：2t02
 
 - go 语言：
 链接：https://pan.baidu.com/s/1xkMOnAQxYvDO0sBO-lTixQ 提取码：2k6t
