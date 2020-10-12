@@ -21,10 +21,7 @@
 javaweb：
 链接：https://pan.baidu.com/s/1bWBgTvVGe2nDG1TGFxgG8A 提取码：k3u8
 
-java1：
-链接：https://pan.baidu.com/s/1NchOrcx_zOgVCZWHhtMKUA 提取码：gq3b
-
-java2：
+java：
 链接：https://pan.baidu.com/s/1DuPIN313Zbmc49egvskGUQ 提取码：slho
 
 - unix:
@@ -37,7 +34,7 @@ part 2:链接：https://pan.baidu.com/s/1eVRswI3SienD1VHLAy2b6g 提取码：4v84
 链接：https://pan.baidu.com/s/1Sq9CvbzTtBJ6eSvIZ5eg-w 提取码：al8n 
 
 - 机器学习：
-链接：https://pan.baidu.com/s/1ptZ7-xxKwLGiOIjWUAFQXQ 提取码:ffbv
+链接：https://pan.baidu.com/s/1yKzYSR2HemW8d-zzSJoafA 提取码：zj73
 
 - 校招
 链接：https://pan.baidu.com/s/1L_yZ7EaQPr-6nFoC555lcA 提取码：1n4q
