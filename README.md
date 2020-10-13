@@ -147,7 +147,7 @@ part 2:
 链接：https://pan.baidu.com/s/1gkaNvmmXtlktwPuD7q9UhA 提取码：6lin
 
 - 运营 
-链接：https://pan.baidu.com/s/1Yib3obLwHREK9DxLdiyVNA 提取码：99hi
+链接：https://pan.baidu.com/s/1e-xHYgAj5JvpArhND99jcQ 提取码：5uun
 
 - 数据结构与算法：
 链接：https://pan.baidu.com/s/1jqktp39alKbjo-ejQ3ReUA 提取码：w3cx
