@@ -22,7 +22,7 @@ javaweb：
 链接：https://pan.baidu.com/s/1bWBgTvVGe2nDG1TGFxgG8A 提取码：k3u8
 
 java：
-链接：https://pan.baidu.com/s/1DuPIN313Zbmc49egvskGUQ 提取码：slho
+链接：https://pan.baidu.com/s/1vhPRkCmfE-D6L_bichveYQ 提取码：hscr
 
 - unix:
 
