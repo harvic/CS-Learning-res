@@ -87,7 +87,7 @@ part 2:
 链接：https://pan.baidu.com/s/1WFdTXXN_Z0qPzrhl7PU8yQ 提取码：yzvq
 
 - 网管：
-链接：https://pan.baidu.com/s/141smmAshnKTjLfxjjFX-TQ 提取码：8i8k
+链接：https://pan.baidu.com/s/1SN_WqTB9VnwUx92l4pe_kw 提取码：9dck
 
 - 黑客:
  链接：https://pan.baidu.com/s/1oYTyK-UBqnUs99whMGJAow 提取码：3a2v
